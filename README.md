@@ -11,7 +11,7 @@
 - <b>TIPE: Intelligent water recovery and redistribution in a home</b>
   - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
 
-<h2>🔭 I’m currently working on ...
+<h2>🔭 I’m currently working on ...</h2>
 - <b>SoundPLUS - First engineering year project</b>
   - [SoundPLUS](https:/)
 
