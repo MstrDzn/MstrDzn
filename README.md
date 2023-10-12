@@ -1,7 +1,29 @@
-### Hi there 👋
+<h1>Hi, I'm Matteo! <br/><a href="https://www.isep.fr/">Enginnering Student</a>, <b>Junior Developper</b>, <a href="https://www.linkedin.com/in/schwarzmatteo/?locale=en_US">and looking for an IT apprenticeship</a></h1>
+
+<h2>👨‍💻 Past Projects</h2>
+
+- <b>IceEmblem - HTML "Fire Emblem" inspired game</b>
+  - [IceEmblem](https:/)
+- <b>BlackJack game in Python using classes and PyGame</b>
+  - [BlackJack Pygame](https://) <b>
+- <b>Atomistique - Elaborated Periodic Table of Elements with Python</b>
+  - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>TIPE: Intelligent water recovery and redistribution in a home</b>
+  - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
+
+<h2>🔭 I’m currently working on ...
+- <b>SoundPLUS - First engineering year project</b>
+  - [SoundPLUS](https:/)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Matteo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/schwarzmatteo/?locale=en_US
 
 <!--
-**MstrDzn/MstrDzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
