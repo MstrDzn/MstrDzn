@@ -2,14 +2,16 @@
 
 <h2>👨‍💻 Past Projects</h2>
 
-- <b>IceEmblem - HTML "Fire Emblem" inspired game</b>
-  - [IceEmblem](https://github.com/MstrDzn/IceEmblem/blob/main/README.md)
+- <b>TIPE: Intelligent water recovery and redistribution in a home</b>
+  - [TIPE](https://github.com/MstrDzn/TIPE/blob/main/README.md)
 - <b>BlackJack game in Python using classes and PyGame</b>
   - [BlackJack Pygame](https://) <b>
 - <b>Atomistique - Elaborated Periodic Table of Elements with Python</b>
   - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>TIPE: Intelligent water recovery and redistribution in a home</b>
-  - [TIPE](https://github.com/MstrDzn/TIPE/blob/main/README.md)
+- <b>Connect Four - Game using tkinter in Python</b>
+  - [Connect Four](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>IceEmblem - HTML "Fire Emblem" inspired game</b>
+  - [IceEmblem](https://github.com/MstrDzn/IceEmblem/blob/main/README.md)
 <h2>📺 3D Design Creations</h2>
 
 - [AEC 24 Contest](https://www.youtube.com/watch?v=EYMW1a7soA4)
