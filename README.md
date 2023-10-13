@@ -3,7 +3,7 @@
 <h2>👨‍💻 Past Projects</h2>
 
 - <b>IceEmblem - HTML "Fire Emblem" inspired game</b>
-  - [IceEmblem](https:/)
+  - [IceEmblem](https://github.com/MstrDzn/IceEmblem/blob/main/README.md)
 - <b>BlackJack game in Python using classes and PyGame</b>
   - [BlackJack Pygame](https://) <b>
 - <b>Atomistique - Elaborated Periodic Table of Elements with Python</b>
