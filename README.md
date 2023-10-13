@@ -10,7 +10,13 @@
   - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>TIPE: Intelligent water recovery and redistribution in a home</b>
   - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
+<h2>📺 3D Design Creations</h2>
 
+- [AEC 24 Contest](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Zac's intro](https://www.youtube.com/watch?v=I9TI18AUpBw)
+- [Slayzerr's contest](https://www.youtube.com/watch?v=QYZAyrw-HvM)
+
+  
 <h2>🔭 I’m currently working on ...</h2>
 - <b>SoundPLUS - First engineering year project</b>
   - [SoundPLUS](https:/)
