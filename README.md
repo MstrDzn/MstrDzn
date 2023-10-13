@@ -12,7 +12,7 @@
   - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
 <h2>📺 3D Design Creations</h2>
 
-- [AEC 24 Contest](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [AEC 24 Contest](https://www.youtube.com/watch?v=EYMW1a7soA4)
 - [Zac's intro](https://www.youtube.com/watch?v=I9TI18AUpBw)
 - [Slayzerr's contest](https://www.youtube.com/watch?v=QYZAyrw-HvM)
 
