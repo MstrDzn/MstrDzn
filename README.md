@@ -9,7 +9,7 @@
 - <b>Atomistique - Elaborated Periodic Table of Elements with Python</b>
   - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Connect Four - Game using tkinter in Python</b>
-  - [Connect Four](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Connect Four](https://github.com/MstrDzn/Connect-Four/blob/main/README.md)
 - <b>IceEmblem - HTML "Fire Emblem" inspired game</b>
   - [IceEmblem](https://github.com/MstrDzn/IceEmblem/blob/main/README.md)
 <h2>📺 3D Design Creations</h2>
