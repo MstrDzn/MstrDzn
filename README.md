@@ -9,7 +9,7 @@
 - <b>Atomistique - Elaborated Periodic Table of Elements with Python</b>
   - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>TIPE: Intelligent water recovery and redistribution in a home</b>
-  - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [TIPE](https://github.com/MstrDzn/TIPE/blob/main/README.md)
 <h2>📺 3D Design Creations</h2>
 
 - [AEC 24 Contest](https://www.youtube.com/watch?v=EYMW1a7soA4)
