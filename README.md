@@ -5,7 +5,7 @@
 - <b>TIPE: Intelligent water recovery and redistribution in a home</b>
   - [TIPE](https://github.com/MstrDzn/TIPE/blob/main/README.md)
 - <b>BlackJack game in Python using classes and PyGame</b>
-  - [BlackJack Pygame](https://) <b>
+  - [BlackJack Pygame](https://github.com/MstrDzn/BlackJack#readme) <b>
 - <b>Atomistique - Elaborated Periodic Table of Elements with Python</b>
   - [Atomistique](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Connect Four - Game using tkinter in Python</b>
