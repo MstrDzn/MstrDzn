@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matteo! <br/><a href="https://www.isep.fr/">Engineering Student</a>, <b>Junior Developper</b>, <a href="https://www.linkedin.com/in/schwarzmatteo/?locale=en_US">and looking for an IT apprenticeship</a></h1>
+<h1>Hi, I'm Matteo! <br/><a href="https://www.isep.fr/">Engineering Student</a> and IT Auditor</a></h1>
 
 <h2>👨‍💻 Past Projects</h2>
 
