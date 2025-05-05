@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matteo! <br/><a href="https://www.isep.fr/">Engineering Student</a> and IT Auditor</a></h1>
+<h1>Hi, I'm Matteo! <br/><a href="https://www.isep.fr/">Engineering Student</a> and IT Auditor apprentice</a></h1>
 
 <h2>👨‍💻 Past Projects</h2>
 
